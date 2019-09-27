@@ -1,0 +1,52 @@
+body { 
+  background-image: url('https://wallpaperplay.com/walls/full/2/b/7/261633.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.banner{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.linkpagina{
+	font-size: 45px;
+	color: #FEE5FF;
+	text-decoration: none;
+	align-content: center;
+	text-shadow: 2px 2px #3D2E3D;
+}
+.retlinks{
+	width: 100%;
+	height: 40px;
+}
+.espacotabela{
+	display: table;
+	float: left;
+	margin-right: 20px;
+}
+.retcont{
+	width: 1310px;
+	height: 100%;
+	background-color: rgba(121, 80, 153, 0.5);
+	padding: 10px;
+}
+.chamada1{
+	font-family: "Orator Std"; 
+	font-size: 35px;
+	color: #C3B8CC;
+	text-shadow: 2px 2px #3D2E3D;
+}
+.texto{
+	font-family: "Orator Std"; 
+	font-size: 25px;
+	color: #E4FFFF;
+	text-align: center;
+	text-shadow: 2px 2px #3D2E3D;
+}
+.imagem{
+	width: 600px;
+}
+.tabelacont{
+	padding: 30px;
+	text-align: center;
+}
